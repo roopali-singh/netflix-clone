@@ -1,6 +1,13 @@
-# Netflix Clone
+# Live Demo: [Netflix Clone](https://netflix-clone-second.firebaseapp.com/)
 
-https://netflix-clone-second.firebaseapp.com/
+Build using React Js. It’s a minimalist implementation to show the API usage and have a good user interaction.
+
+- UI inspired by Netflix
+- Shows movies for various categories
+- Shows the trending movie on the banner
+- Trailer Popups
+
+> Hosted on Firebase
 
 # Getting Started with Create React App
 
